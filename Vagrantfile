@@ -68,5 +68,6 @@ Vagrant.configure(2) do |config|
     sudo apt-get update
     sudo apt-get install -y git
     sudo apt-get install -y emacs
+    sudo apt-get install -y ngircd
   SHELL
 end
